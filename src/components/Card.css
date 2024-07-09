@@ -1,0 +1,14 @@
+.addProduct-card {
+    width: 400px;
+    height: 350px;
+    position: absolute;
+}
+
+.row {
+    width: 1000px;
+    justify-content: center;
+}
+
+.rowAdd {
+    width: 500px;
+}
