@@ -1,5 +1,5 @@
 ## 專案介紹
-！[image](https://github.com/Chunny3/XXStoreCMS-front/blob/main/AddProduct.jpg)
+![image](https://github.com/Chunny3/XXStoreCMS-front/blob/main/AddProduct.jpg)
 
 ## 運行環境需求
 ### 1. 前端:Node.js, react.js, 
