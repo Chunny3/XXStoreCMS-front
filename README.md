@@ -1,3 +1,6 @@
+#XXStoreCMS
+###這是一個為網路商店後台的使用者所設計的網頁，後台使用者可以使用新增、修改和刪除來調整網站的商品。
+
 ## 專案介紹
 ![image](https://github.com/Chunny3/XXStoreCMS-front/blob/main/AddProduct.jpg)
 
