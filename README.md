@@ -1,18 +1,29 @@
-#XXStoreCMS
-###這是一個為網路商店後台的使用者所設計的網頁，後台使用者可以使用新增、修改和刪除來調整網站的商品。
+# XXStoreCMS
+#### 這是一個使用 Spring Boot 和 ReactJS 的產品管理系統，為網路商店管理員所設計的網頁，可以使用新增、修改和刪除來調整商品。
 
 ## 專案介紹
 ![image](https://github.com/Chunny3/XXStoreCMS-front/blob/main/AddProduct.jpg)
 
-## 運行環境需求
-### 1. 前端:Node.js, react.js, 
-### 2. 後端:MySQL, 
-
-## 環境檔
-### MySOL 帳號密碼
-
-## 分 Local端 Server端 要搜尋一下
-## 運行步驟
-### 如果採前後端分離，可以附上POSTMAN 的 collection 方便前端驗證
-
-
+## 安裝
+### 專案技術
+- Node.js
+- Axios 1.7.2
+- Bootstrap 5.3.3
+- React-Bootstrap 2.10.4
+- React-router-dom 6.24.0
+### 取得專案
+```
+git clone git@github.com:Chunny3/XXStoreCMS-front.git
+```
+### 移動到專案內
+```
+cd XXStoreCMS-front
+```
+### 安裝套件
+```
+npm install
+```
+### 運行前端服務
+```
+npm start
+```
